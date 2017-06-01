@@ -37,8 +37,9 @@
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista28.png?raw=true)](http://ronindude.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista29.png?raw=true)](https://www.artstation.com/artist/timbougami)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista30.png?raw=true)](http://toshinho.deviantart.com/)
-[![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista31.png?raw=true)](https://www.artstation.com/artist/gisuka)
-[![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista32.png?raw=true)](http://www.pixiv.net/member.php?id=1830438)
+[![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista31.png?raw=true)](http://wlop.deviantart.com/)
+[![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista32.png?raw=true)](https://www.artstation.com/artist/gisuka)
+[![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista33.png?raw=true)](http://www.pixiv.net/member.php?id=1830438)
 
 
 
