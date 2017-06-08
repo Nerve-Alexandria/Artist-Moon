@@ -19,6 +19,7 @@
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista10.png?raw=true)](http://dcwj.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista36.png?raw=true)](http://eelgod.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista11.png?raw=true)](http://forgotten-wings.deviantart.com/)
+[![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista38.png?raw=true)](https://www.artstation.com/artwork/OZZmv)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista12.png?raw=true)](http://guweiz.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista35.png?raw=true)](http://hananon.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista13.png?raw=true)](http://instantip.deviantart.com/)
