@@ -37,6 +37,7 @@
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista24.png?raw=true)](http://neoartcore.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista25.png?raw=true)](http://www.pixiv.net/member.php?id=5234063)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista26.png?raw=true)](http://www.pixiv.net/member.php?id=16657256)
+[![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista39.png?raw=true)](https://www.pixiv.net/member_illust.php?id=2312918)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista27.png?raw=true)](http://riftgarret.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista28.png?raw=true)](http://ronindude.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista29.png?raw=true)](https://www.artstation.com/artist/timbougami)
