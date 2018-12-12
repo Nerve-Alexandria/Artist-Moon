@@ -27,6 +27,7 @@
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista15.png?raw=true)](http://karbo.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista16.png?raw=true)](http://kate-fox.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista17.png?raw=true)](http://kazakami.deviantart.com/)
+[![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista40.png?raw=true)](https://www.deviantart.com/kinggainer)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista18.png?raw=true)](http://koyorin.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista37.png?raw=true)](http://krakenkatz.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista19.png?raw=true)](https://www.artstation.com/artist/mobius)
