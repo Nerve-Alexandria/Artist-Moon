@@ -2,7 +2,7 @@
 
 ## Mis artistas favoritos de 2D
 
-> Desde hace 7 años sigo la trayectoria de varios artistas que han ido evolucionando y llegando a ser los mejores en sus sectores. Aqui recopilo los artistas que a dia de hoy son los que estoy siguiendo.
+> Desde hace 8 años sigo la trayectoria de varios artistas que han ido evolucionando y llegando a ser los mejores en sus sectores. Aqui recopilo los artistas que a dia de hoy son los que estoy siguiendo.
 
 ---
 
