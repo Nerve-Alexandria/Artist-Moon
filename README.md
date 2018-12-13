@@ -33,6 +33,7 @@
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista19.png?raw=true)](https://www.artstation.com/artist/mobius)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista20.png?raw=true)](http://lokmanlam.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista21.png?raw=true)](http://lovecacao.deviantart.com/)
+[![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista41.png?raw=true)](https://www.deviantart.com/madiblitz/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista22.png?raw=true)](http://madspartan013.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista23.png?raw=true)](http://monorirogue.deviantart.com/)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista24.png?raw=true)](http://neoartcore.deviantart.com/)
