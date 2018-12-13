@@ -49,6 +49,7 @@
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista32.png?raw=true)](https://www.artstation.com/artist/gisuka)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista43.png?raw=true)](https://www.pixiv.net/member.php?id=6071311)
 [![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista33.png?raw=true)](http://www.pixiv.net/member.php?id=1830438)
+[![trunk](https://github.com/Nerve-Alexandria/Artist-Moon/blob/master/res/artista44.png?raw=true)](https://www.pixiv.net/member_illust.php?id=415608)
 
 
 
